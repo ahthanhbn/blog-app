@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html data-theme="light" lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./font/stylesheet.css">
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <div id="root">  
+        <header class="header">
+            <a href="./index.html" class="logo">
+              <img src="logo" alt="" class="logo-image" />
+              AHTHANHBN
+            </a>
+            <ul class="menu">
+              <li class="menu-item">
+                <a href="./index.html" class="menu-link">Bài Viết</a>
+                <a href="./manager.html" class="menu-link">Quản lý</a>
+              </li>
+            </ul>
+            <div class="search">
+              <div class="search-field">
+                <div class="search-icon">
+                </div>
+                <input type="text" class="search-input" placeholder="Nhập từ khóa...">
+              </div>
+            </div>
+          </header>
+        <section id="create">
+            <h1 class="course__header">Thêm bài viết</h1>
+            <form class="form">
+                <div class="titleImg">
+                    <div class="title__box">
+                        <label for="title">Tiêu đề</label>
+                        <input type="text" id="title" name="title" value="">
+                    </div>
+                    <div class="img__box">
+                        <label for="image">Thêm hình ảnh</label>
+                        <input type="text" name="image" id="image">
+                    </div>
+                </div>
+                <div class="inputDesc">
+                    <label for="desc">Mô tả</label>
+                    <textarea name="desc" id="desc"></textarea>
+
+                </div>
+                <div class="inputContent">
+                    <label for="content">Nội dung</label>
+                    <textarea name="content" id="content"></textarea>
+                </div>
+                <div>
+                    <label for="status">Trạng thái</label>
+                    <select name="status" id="status">
+                        <option value="PUBLIC">Public</option>
+                        <option value="DRAFT">Draft</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="category">Danh mục</label>
+                    <select name="category" id="category">
+                        <option value="Học tập">Học tập</option>
+                        <option value="Thể thao">Thể thao</option>
+                    </select>
+
+                </div>
+                <div>
+                    <button id="submit">Lưu</button>
+                </div>
+            </form>
+        </section>
+    </div>
+</body>
+<script src="https://cdn.tiny.cloud/1/od13h2kueynjv7l3rokt9we5cxwch86t8c6jrzn02xv31yos/tinymce/5/tinymce.min.js"
+    referrerpolicy="origin"></script>
+<script>
+    tinymce.init({
+        selector: "#content",
+    });
+</script>
+<script src="./add-post.js"></script>
+
+</html>

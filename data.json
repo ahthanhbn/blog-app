@@ -1,0 +1,101 @@
+{
+  "posts": [
+    {
+      "title": "Khóa học lập trình cơ ban",
+      "url": "kha-hc-lp-trnh-c-ban",
+      "image": "https://images.unsplash.com/photo-1718900351979-3e00f88386a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHx8",
+      "desc": "Đây là khóa học dành cho người mới bắt đầu học lập trình web ",
+      "content": "<p>knckankanl</p>",
+      "status": "PUBLIC",
+      "category": "Thể thao",
+      "createdAt": "2024-06-25T07:30:18.853Z",
+      "id": "97cb9"
+    },
+    {
+      "id": "9685",
+      "title": "Khóa học lập trình cơ bản đến nâng cao cho người mới",
+      "url": "tieude01",
+      "image": "https://images.unsplash.com/photo-1718900351979-3e00f88386a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHx8",
+      "desc": "Đây là khóa học dành cho người mới bắt đầu học lập trình web ",
+      "content": "<p>adssad</p>",
+      "status": "PUBLISH",
+      "createdAt": "2024-06-19T14:07:51.531Z"
+    },
+    {
+      "id": "e9d7",
+      "title": "Khóa học lập trình cơ bản đến nâng cao cho người mới",
+      "url": "tieude01",
+      "image": "https://images.unsplash.com/photo-1718900351979-3e00f88386a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHx8",
+      "desc": "Đây là khóa học dành cho người mới bắt đầu học lập trình web ",
+      "content": "<p>adssad</p>",
+      "status": "PUBLISH",
+      "createdAt": "2024-06-19T14:07:51.531Z"
+    },
+    {
+      "id": "223e",
+      "title": "Nguyễn Bá Thành",
+      "image": "https://images.unsplash.com/photo-1718900351979-3e00f88386a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHx8",
+      "desc": "đẹp trai",
+      "content": "<p>cnkankanvl</p>",
+      "category": "Học tập",
+      "status": "DRAFT",
+      "createdAt": "2024-06-25T07:32:55.780Z"
+    },
+    {
+      "id": "6e37",
+      "title": "Bạn là ai",
+      "image": "https://plus.unsplash.com/premium_photo-1673264933056-8f2f9c87742f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHx8",
+      "desc": "hbcjascj",
+      "content": "<p>knckankanl</p>",
+      "category": "Thể thao",
+      "status": "PUBLIC",
+      "createdAt": "2024-06-25T07:36:01.782Z"
+    },
+    {
+      "id": "5cdf",
+      "title": "Khóa học lập trình cơ ban",
+      "image": "https://images.unsplash.com/photo-1718900351979-3e00f88386a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHx8",
+      "desc": "Đây là khóa học dành cho người mới bắt đầu học lập trình web ",
+      "content": "<p>ddepskvnakvnlakvlk</p>",
+      "category": "Học tập",
+      "status": "PUBLIC",
+      "createdAt": "2024-06-25T08:09:44.248Z"
+    },
+    {
+      "id": "0297",
+      "title": "Khóa học lập trình cơ ban",
+      "image": "https://images.unsplash.com/photo-1718900351979-3e00f88386a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHx8",
+      "desc": "Đây là khóa học dành cho người mới bắt đầu học lập trình web ",
+      "content": "<p>asnckalamvamvam</p>",
+      "category": "Học tập",
+      "status": "PUBLIC",
+      "createdAt": "2024-06-25T08:09:54.121Z"
+    },
+    {
+      "id": "9771",
+      "title": "Khóa học lập trình cơ ban",
+      "image": "https://images.unsplash.com/photo-1718900351979-3e00f88386a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHx8",
+      "desc": "Đây là khóa học dành cho người mới bắt đầu học lập trình web ",
+      "content": "<p>asanslkvalkv</p>",
+      "category": "Học tập",
+      "status": "PUBLIC",
+      "createdAt": "2024-06-25T08:10:02.939Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "title": "Học tập",
+      "url": "hoc-tap",
+      "color": "#fff",
+      "createdAt": "2024-06-10T09:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Thể thao",
+      "url": "the-thao",
+      "color": "#000",
+      "createdAt": "2024-06-10T09:00:00Z"
+    }
+  ]
+}
